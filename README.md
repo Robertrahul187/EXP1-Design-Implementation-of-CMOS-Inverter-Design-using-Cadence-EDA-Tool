@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![EXP1(1)](https://github.com/user-attachments/assets/eec6a893-b13c-43fa-a968-3ca75ea3f0e1)
 
 
  
@@ -64,7 +64,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+![EXP1(2)](https://github.com/user-attachments/assets/623196d8-0be3-4a58-8894-1f93df010a3a)
 
 
 iv)	Creating the new test cell view
@@ -76,7 +76,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![EXP1(3)](https://github.com/user-attachments/assets/ae817c61-93ab-4775-b8c2-609835b3fd31)
 
 
  
@@ -90,19 +90,17 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+![EXP1(4)](https://github.com/user-attachments/assets/d140d036-5385-4c12-a6cc-7302a5022c7c)
 
 For Transient Analysis Settings and Output
  
- 
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![EXP1(5)](https://github.com/user-attachments/assets/b6b55e4a-2a5e-453a-befa-69534154b620)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![EXP1(6)](https://github.com/user-attachments/assets/c751d53c-d724-4a74-99d4-496ae66217af)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![EXP1(7)](https://github.com/user-attachments/assets/8bb98191-26c5-41b3-a284-ad9e39feae25)
 
  
 
